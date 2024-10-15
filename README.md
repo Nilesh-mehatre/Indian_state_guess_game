@@ -12,7 +12,7 @@ Welcome to the **State Guess Game**! This fun and interactive game allows player
 
 ### Prerequisites
 
-Make sure you have Python installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
+Make sure you have Python installed on your machine/system. You can download it from [python.org](https://www.python.org/downloads/).
 
 ### Installation
 
